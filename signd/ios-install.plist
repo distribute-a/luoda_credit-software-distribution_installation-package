@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://mirror.ghproxy.com/https://github.com/distribute-a/luoda_credit-software-distribution_installation-package/blob/main/signd/20231210.ipa</string>
+					<string>https://mirror.ghproxy.com/https://raw.githubusercontent.com/distribute-a/luoda_credit-software-distribution_installation-package/master/signd/20231210.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://mirror.ghproxy.com/https://github.com/distribute-a/luoda_credit-software-distribution_installation-package/blob/main/logo.png</string>
+					<string>https://mirror.ghproxy.com/https://raw.githubusercontent.com/distribute-a/luoda_credit-software-distribution_installation-package/master/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://mirror.ghproxy.com/https://github.com/distribute-a/luoda_credit-software-distribution_installation-package/blob/main/logo.png</string>
+					<string>https://mirror.ghproxy.com/https://raw.githubusercontent.com/distribute-a/luoda_credit-software-distribution_installation-package/master/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
